@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACI,UAAW,CACX,YACJ,CACA,KACI,eACJ","file":"main.08194fd5.chunk.css","sourcesContent":["iframe {\r\n    width: 100%;\r\n    height: 500px;\r\n}\r\nbody {\r\n    overflow: hidden;\r\n}\r\n"]}
