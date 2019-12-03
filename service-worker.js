@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vk-glavclub-app/precache-manifest.1a2fe3ed8caf9db56a2d207ec9e1c247.js"
+  "/vk-glavclub-app/precache-manifest.4724d5898f31c91d965bc6751531bec8.js"
 );
 
 self.addEventListener('message', (event) => {
