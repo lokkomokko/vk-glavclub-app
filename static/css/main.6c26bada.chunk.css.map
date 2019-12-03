@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACI,gBAAiB,CACjB,WAAY,CACZ,YACJ","file":"main.6c26bada.chunk.css","sourcesContent":["iframe {\r\n    min-height: 100vh;\r\n    width: 720px;\r\n    height: 550px;\r\n}\r\nbody {\r\n}\r\n"]}
