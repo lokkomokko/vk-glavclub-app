@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63ce1a347c06e7adec3a33ab352faf7b",
+    "revision": "1672521c9ab58b1cece99f7595d7cd6f",
     "url": "/vk-glavclub-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-glavclub-app/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "0c6c72bcc8a04e2c3e3d",
+    "revision": "ed20cb0f85a51ca1dd9e",
     "url": "/vk-glavclub-app/static/css/main.7eb5e01f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-glavclub-app/static/js/2.9ba857cf.chunk.js"
   },
   {
-    "revision": "0c6c72bcc8a04e2c3e3d",
-    "url": "/vk-glavclub-app/static/js/main.19c12e9d.chunk.js"
+    "revision": "ed20cb0f85a51ca1dd9e",
+    "url": "/vk-glavclub-app/static/js/main.b7a524d7.chunk.js"
   },
   {
     "revision": "517208725a9771725467",
