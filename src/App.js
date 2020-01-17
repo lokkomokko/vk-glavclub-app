@@ -5,7 +5,6 @@ import ScreenSpinner from '@vkontakte/vkui/dist/components/ScreenSpinner/ScreenS
 import '@vkontakte/vkui/dist/vkui.css';
 
 import Home from './panels/Home';
-import Persik from './panels/Persik';
 
 const App = () => {
 	const [activePanel, setActivePanel] = useState('home');
@@ -14,14 +13,25 @@ const App = () => {
 
 	useEffect(() => {
 		connect.subscribe(({ detail: { type, data }}) => {
+			console.log(222222, connect)
+
 			if (type === 'VKWebAppUpdateConfig') {
 				const schemeAttribute = document.createAttribute('scheme');
 				schemeAttribute.value = data.scheme ? data.scheme : 'client_light';
 				document.body.attributes.setNamedItem(schemeAttribute);
 			}
 		});
+
+		const url_string = window.location.href;
+		const url = new URL(url_string);
+		const vk_are_notifications_enabled = url.searchParams.get("vk_are_notifications_enabled");
+
+		if (!+vk_are_notifications_enabled) {
+			connect.send("VKWebAppAllowNotifications", {});
+		}
 		async function fetchData() {
 			const user = await connect.sendPromise('VKWebAppGetUserInfo');
+			console.log(user)
 			setUser(user);
 			setPopout(null);
 		}
@@ -31,11 +41,17 @@ const App = () => {
 	const go = e => {
 		setActivePanel(e.currentTarget.dataset.to);
 	};
+	if (fetchedUser && fetchedUser.id) {
+		fetch('https://glavclub.com/vk/KwgG259rqFt9gdDNpj8f/' + fetchedUser.id)
+			.then(response => response.json())
+			.then(response => {
+				console.log(response)
+			});
+	}
 
 	return (
-		<View activePanel={activePanel} popout={popout}>
+		<View activePanel={activePanel} >
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
-			<Persik id='persik' go={go} />
 		</View>
 	);
 }
