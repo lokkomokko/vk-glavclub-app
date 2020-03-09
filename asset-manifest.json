@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vk-glavclub-app/static/css/main.c6c3a5ac.chunk.css",
-    "main.js": "/vk-glavclub-app/static/js/main.6e3d92d3.chunk.js",
-    "main.js.map": "/vk-glavclub-app/static/js/main.6e3d92d3.chunk.js.map",
+    "main.css": "/vk-glavclub-app/static/css/main.669774b3.chunk.css",
+    "main.js": "/vk-glavclub-app/static/js/main.18c6d232.chunk.js",
+    "main.js.map": "/vk-glavclub-app/static/js/main.18c6d232.chunk.js.map",
     "runtime-main.js": "/vk-glavclub-app/static/js/runtime-main.8114df3c.js",
     "runtime-main.js.map": "/vk-glavclub-app/static/js/runtime-main.8114df3c.js.map",
     "static/css/2.4e89ce74.chunk.css": "/vk-glavclub-app/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.127ab522.chunk.js": "/vk-glavclub-app/static/js/2.127ab522.chunk.js",
-    "static/js/2.127ab522.chunk.js.map": "/vk-glavclub-app/static/js/2.127ab522.chunk.js.map",
+    "static/js/2.001ec114.chunk.js": "/vk-glavclub-app/static/js/2.001ec114.chunk.js",
+    "static/js/2.001ec114.chunk.js.map": "/vk-glavclub-app/static/js/2.001ec114.chunk.js.map",
     "index.html": "/vk-glavclub-app/index.html",
-    "precache-manifest.a4180d207d3a691bcbd70ba31ae9a5a2.js": "/vk-glavclub-app/precache-manifest.a4180d207d3a691bcbd70ba31ae9a5a2.js",
+    "precache-manifest.b457dbbcf6053d03f4ddee0fe48e427f.js": "/vk-glavclub-app/precache-manifest.b457dbbcf6053d03f4ddee0fe48e427f.js",
     "service-worker.js": "/vk-glavclub-app/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/vk-glavclub-app/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.c6c3a5ac.chunk.css.map": "/vk-glavclub-app/static/css/main.c6c3a5ac.chunk.css.map"
+    "static/css/main.669774b3.chunk.css.map": "/vk-glavclub-app/static/css/main.669774b3.chunk.css.map"
   }
 }
