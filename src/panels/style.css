@@ -1,7 +1,6 @@
 iframe {
     width: 100%;
     min-height: 100vh;
-    min-width: 440px;
 }
 body {
     overflow: hidden;
@@ -14,4 +13,10 @@ body {
 }
 #feed .footer {
     display: none !important;
+}
+.Panel__in-before+.Group--android, .PullToRefresh__content>.Group--android:first-child {
+    padding-top: 0 !important;
+}
+.Cell__children {
+    font-size: 13px;
 }

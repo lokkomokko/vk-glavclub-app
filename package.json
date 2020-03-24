@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@vkontakte/icons": "^1.10.0",
+    "@vkontakte/vk-bridge": "^2.0.8",
     "@vkontakte/vk-connect": "^1.6.11",
     "@vkontakte/vkui": "^2.30.7",
     "babel-eslint": "^10.0.3",
