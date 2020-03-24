@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/vk-glavclub-app/static/css/main.7e95d01f.chunk.css",
-    "main.js": "/vk-glavclub-app/static/js/main.9a326c87.chunk.js",
-    "main.js.map": "/vk-glavclub-app/static/js/main.9a326c87.chunk.js.map",
-    "runtime-main.js": "/vk-glavclub-app/static/js/runtime-main.1795e8d3.js",
-    "runtime-main.js.map": "/vk-glavclub-app/static/js/runtime-main.1795e8d3.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/vk-glavclub-app/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bad90d20.chunk.js": "/vk-glavclub-app/static/js/2.bad90d20.chunk.js",
-    "static/js/2.bad90d20.chunk.js.map": "/vk-glavclub-app/static/js/2.bad90d20.chunk.js.map",
+    "main.css": "/vk-glavclub-app/static/css/main.669774b3.chunk.css",
+    "main.js": "/vk-glavclub-app/static/js/main.014ad7df.chunk.js",
+    "main.js.map": "/vk-glavclub-app/static/js/main.014ad7df.chunk.js.map",
+    "runtime-main.js": "/vk-glavclub-app/static/js/runtime-main.8114df3c.js",
+    "runtime-main.js.map": "/vk-glavclub-app/static/js/runtime-main.8114df3c.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vk-glavclub-app/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.48f5727e.chunk.js": "/vk-glavclub-app/static/js/2.48f5727e.chunk.js",
+    "static/js/2.48f5727e.chunk.js.map": "/vk-glavclub-app/static/js/2.48f5727e.chunk.js.map",
     "index.html": "/vk-glavclub-app/index.html",
-    "precache-manifest.4f348bde242c2c543207d5bfe8e6a8f8.js": "/vk-glavclub-app/precache-manifest.4f348bde242c2c543207d5bfe8e6a8f8.js",
+    "precache-manifest.c4037864994a5a1993ca907defd36fa4.js": "/vk-glavclub-app/precache-manifest.c4037864994a5a1993ca907defd36fa4.js",
     "service-worker.js": "/vk-glavclub-app/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/vk-glavclub-app/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.7e95d01f.chunk.css.map": "/vk-glavclub-app/static/css/main.7e95d01f.chunk.css.map",
-    "static/js/2.bad90d20.chunk.js.LICENSE.txt": "/vk-glavclub-app/static/js/2.bad90d20.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.1795e8d3.js",
-    "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.bad90d20.chunk.js",
-    "static/css/main.7e95d01f.chunk.css",
-    "static/js/main.9a326c87.chunk.js"
-  ]
+    "static/css/2.4e89ce74.chunk.css.map": "/vk-glavclub-app/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.669774b3.chunk.css.map": "/vk-glavclub-app/static/css/main.669774b3.chunk.css.map"
+  }
 }
