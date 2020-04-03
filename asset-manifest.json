@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vk-glavclub-app/static/css/main.d405922b.chunk.css",
+    "main.css": "/vk-glavclub-app/static/css/main.de3e0e63.chunk.css",
     "main.js": "/vk-glavclub-app/static/js/main.714cacf6.chunk.js",
     "main.js.map": "/vk-glavclub-app/static/js/main.714cacf6.chunk.js.map",
     "runtime-main.js": "/vk-glavclub-app/static/js/runtime-main.1795e8d3.js",
@@ -9,17 +9,17 @@
     "static/js/2.f4ec569f.chunk.js": "/vk-glavclub-app/static/js/2.f4ec569f.chunk.js",
     "static/js/2.f4ec569f.chunk.js.map": "/vk-glavclub-app/static/js/2.f4ec569f.chunk.js.map",
     "index.html": "/vk-glavclub-app/index.html",
-    "precache-manifest.f5c7f3b240c362787675d36a21d371ad.js": "/vk-glavclub-app/precache-manifest.f5c7f3b240c362787675d36a21d371ad.js",
+    "precache-manifest.7f4980ff23c7e3b4f3d22c1d6c662e48.js": "/vk-glavclub-app/precache-manifest.7f4980ff23c7e3b4f3d22c1d6c662e48.js",
     "service-worker.js": "/vk-glavclub-app/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/vk-glavclub-app/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.d405922b.chunk.css.map": "/vk-glavclub-app/static/css/main.d405922b.chunk.css.map",
+    "static/css/main.de3e0e63.chunk.css.map": "/vk-glavclub-app/static/css/main.de3e0e63.chunk.css.map",
     "static/js/2.f4ec569f.chunk.js.LICENSE.txt": "/vk-glavclub-app/static/js/2.f4ec569f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1795e8d3.js",
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.f4ec569f.chunk.js",
-    "static/css/main.d405922b.chunk.css",
+    "static/css/main.de3e0e63.chunk.css",
     "static/js/main.714cacf6.chunk.js"
   ]
 }
